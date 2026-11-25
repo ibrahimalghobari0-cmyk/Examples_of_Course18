@@ -1,0 +1,2 @@
+C:\Users\GIGabyte\Videos\College\ابو هدهود\Level 18\Getallcontacts\bin\Debug\Getallcontacts.exe.config
+C:\Users\GIGabyte\Videos\College\ابو هدهود\Level 18\Getallcontacts\obj\Debug\Getallcontacts.csprojResolveAssemblyReference.cache

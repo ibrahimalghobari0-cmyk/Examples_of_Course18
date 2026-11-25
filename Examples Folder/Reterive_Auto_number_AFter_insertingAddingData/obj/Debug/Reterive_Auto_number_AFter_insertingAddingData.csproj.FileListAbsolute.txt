@@ -1,0 +1,5 @@
+C:\Users\GIGabyte\Videos\College\ابو هدهود\Level 18\Reterive_Auto_number_AFter_insertingAddingData\bin\Debug\Reterive_Auto_number_AFter_insertingAddingData.exe.config
+C:\Users\GIGabyte\Videos\College\ابو هدهود\Level 18\Reterive_Auto_number_AFter_insertingAddingData\bin\Debug\Reterive_Auto_number_AFter_insertingAddingData.exe
+C:\Users\GIGabyte\Videos\College\ابو هدهود\Level 18\Reterive_Auto_number_AFter_insertingAddingData\bin\Debug\Reterive_Auto_number_AFter_insertingAddingData.pdb
+C:\Users\GIGabyte\Videos\College\ابو هدهود\Level 18\Reterive_Auto_number_AFter_insertingAddingData\obj\Debug\Reterive_Auto_number_AFter_insertingAddingData.exe
+C:\Users\GIGabyte\Videos\College\ابو هدهود\Level 18\Reterive_Auto_number_AFter_insertingAddingData\obj\Debug\Reterive_Auto_number_AFter_insertingAddingData.pdb

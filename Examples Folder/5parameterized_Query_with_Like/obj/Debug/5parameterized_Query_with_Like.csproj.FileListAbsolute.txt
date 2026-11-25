@@ -1,0 +1,5 @@
+C:\Users\GIGabyte\Videos\College\ابو هدهود\Level 18\5parameterized_Query_with_Like\bin\Debug\5parameterized_Query_with_Like.exe.config
+C:\Users\GIGabyte\Videos\College\ابو هدهود\Level 18\5parameterized_Query_with_Like\bin\Debug\5parameterized_Query_with_Like.exe
+C:\Users\GIGabyte\Videos\College\ابو هدهود\Level 18\5parameterized_Query_with_Like\bin\Debug\5parameterized_Query_with_Like.pdb
+C:\Users\GIGabyte\Videos\College\ابو هدهود\Level 18\5parameterized_Query_with_Like\obj\Debug\5parameterized_Query_with_Like.exe
+C:\Users\GIGabyte\Videos\College\ابو هدهود\Level 18\5parameterized_Query_with_Like\obj\Debug\5parameterized_Query_with_Like.pdb

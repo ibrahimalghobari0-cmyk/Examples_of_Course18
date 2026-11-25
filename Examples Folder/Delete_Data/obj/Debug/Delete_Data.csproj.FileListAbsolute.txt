@@ -1,0 +1,5 @@
+C:\Users\GIGabyte\Videos\College\ابو هدهود\Level 18\Delete_Data\bin\Debug\Delete_Data.exe.config
+C:\Users\GIGabyte\Videos\College\ابو هدهود\Level 18\Delete_Data\bin\Debug\Delete_Data.exe
+C:\Users\GIGabyte\Videos\College\ابو هدهود\Level 18\Delete_Data\bin\Debug\Delete_Data.pdb
+C:\Users\GIGabyte\Videos\College\ابو هدهود\Level 18\Delete_Data\obj\Debug\Delete_Data.exe
+C:\Users\GIGabyte\Videos\College\ابو هدهود\Level 18\Delete_Data\obj\Debug\Delete_Data.pdb

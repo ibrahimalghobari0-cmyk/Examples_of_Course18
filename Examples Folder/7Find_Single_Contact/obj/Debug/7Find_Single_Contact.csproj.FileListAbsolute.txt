@@ -1,0 +1,6 @@
+C:\Users\GIGabyte\Videos\College\ابو هدهود\Level 18\7Find_Single_Contact\bin\Debug\7Find_Single_Contact.exe.config
+C:\Users\GIGabyte\Videos\College\ابو هدهود\Level 18\7Find_Single_Contact\bin\Debug\7Find_Single_Contact.exe
+C:\Users\GIGabyte\Videos\College\ابو هدهود\Level 18\7Find_Single_Contact\bin\Debug\7Find_Single_Contact.pdb
+C:\Users\GIGabyte\Videos\College\ابو هدهود\Level 18\7Find_Single_Contact\obj\Debug\7Find_Single_Contact.csprojResolveAssemblyReference.cache
+C:\Users\GIGabyte\Videos\College\ابو هدهود\Level 18\7Find_Single_Contact\obj\Debug\7Find_Single_Contact.exe
+C:\Users\GIGabyte\Videos\College\ابو هدهود\Level 18\7Find_Single_Contact\obj\Debug\7Find_Single_Contact.pdb

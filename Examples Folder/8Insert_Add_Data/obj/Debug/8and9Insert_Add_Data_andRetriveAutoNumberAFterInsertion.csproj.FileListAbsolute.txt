@@ -1,0 +1,6 @@
+C:\Users\GIGabyte\Videos\College\ابو هدهود\Level 18\8and9Insert_Add_Data_andRetriveAutoNumberAFterInsertion\bin\Debug\8Insert_Add_Data.exe.config
+C:\Users\GIGabyte\Videos\College\ابو هدهود\Level 18\8and9Insert_Add_Data_andRetriveAutoNumberAFterInsertion\obj\Debug\8Insert_Add_Data.exe
+C:\Users\GIGabyte\Videos\College\ابو هدهود\Level 18\8and9Insert_Add_Data_andRetriveAutoNumberAFterInsertion\obj\Debug\8Insert_Add_Data.pdb
+C:\Users\GIGabyte\Videos\College\ابو هدهود\Level 18\8and9Insert_Add_Data_andRetriveAutoNumberAFterInsertion\bin\Debug\8Insert_Add_Data.exe
+C:\Users\GIGabyte\Videos\College\ابو هدهود\Level 18\8and9Insert_Add_Data_andRetriveAutoNumberAFterInsertion\bin\Debug\8Insert_Add_Data.pdb
+C:\Users\GIGabyte\Videos\College\ابو هدهود\Level 18\8and9Insert_Add_Data_andRetriveAutoNumberAFterInsertion\obj\Debug\8and9Insert_Add_Data_andRetriveAutoNumberAFterInsertion.csprojResolveAssemblyReference.cache

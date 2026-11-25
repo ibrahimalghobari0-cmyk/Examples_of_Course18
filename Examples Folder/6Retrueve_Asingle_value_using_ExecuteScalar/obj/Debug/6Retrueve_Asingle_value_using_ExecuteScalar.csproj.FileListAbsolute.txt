@@ -1,0 +1,6 @@
+C:\Users\GIGabyte\Videos\College\ابو هدهود\Level 18\6Retrueve_Asingle_value_using_ExecuteScalar\bin\Debug\6Retrueve_Asingle_value_using_ExecuteScalar.exe.config
+C:\Users\GIGabyte\Videos\College\ابو هدهود\Level 18\6Retrueve_Asingle_value_using_ExecuteScalar\obj\Debug\6Retrueve_Asingle_value_using_ExecuteScalar.csprojResolveAssemblyReference.cache
+C:\Users\GIGabyte\Videos\College\ابو هدهود\Level 18\6Retrueve_Asingle_value_using_ExecuteScalar\bin\Debug\6Retrueve_Asingle_value_using_ExecuteScalar.exe
+C:\Users\GIGabyte\Videos\College\ابو هدهود\Level 18\6Retrueve_Asingle_value_using_ExecuteScalar\bin\Debug\6Retrueve_Asingle_value_using_ExecuteScalar.pdb
+C:\Users\GIGabyte\Videos\College\ابو هدهود\Level 18\6Retrueve_Asingle_value_using_ExecuteScalar\obj\Debug\6Retrueve_Asingle_value_using_ExecuteScalar.exe
+C:\Users\GIGabyte\Videos\College\ابو هدهود\Level 18\6Retrueve_Asingle_value_using_ExecuteScalar\obj\Debug\6Retrueve_Asingle_value_using_ExecuteScalar.pdb

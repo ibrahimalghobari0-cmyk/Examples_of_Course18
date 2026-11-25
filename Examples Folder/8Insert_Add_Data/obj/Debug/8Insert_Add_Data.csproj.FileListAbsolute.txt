@@ -1,0 +1,6 @@
+C:\Users\GIGabyte\Videos\College\ابو هدهود\Level 18\8Insert_Add_Data\bin\Debug\8Insert_Add_Data.exe.config
+C:\Users\GIGabyte\Videos\College\ابو هدهود\Level 18\8Insert_Add_Data\bin\Debug\8Insert_Add_Data.exe
+C:\Users\GIGabyte\Videos\College\ابو هدهود\Level 18\8Insert_Add_Data\bin\Debug\8Insert_Add_Data.pdb
+C:\Users\GIGabyte\Videos\College\ابو هدهود\Level 18\8Insert_Add_Data\obj\Debug\8Insert_Add_Data.csprojResolveAssemblyReference.cache
+C:\Users\GIGabyte\Videos\College\ابو هدهود\Level 18\8Insert_Add_Data\obj\Debug\8Insert_Add_Data.exe
+C:\Users\GIGabyte\Videos\College\ابو هدهود\Level 18\8Insert_Add_Data\obj\Debug\8Insert_Add_Data.pdb
